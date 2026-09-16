@@ -1,0 +1,10 @@
+# ปุ่ม Sponsor สำหรับทุก repository ของบัญชีนี้
+#
+# ไฟล์นี้อยู่ใน repo ชื่อ .github จึงถูกใช้เป็นค่าเริ่มต้นของทุก repo
+# ที่ไม่มี .github/FUNDING.yml ของตัวเอง — เพิ่มโปรเจกต์ใหม่ก็ได้ปุ่มอัตโนมัติ
+#
+# เพิ่มช่องทางอื่นได้ เช่น เมื่อ GitHub Sponsors อนุมัติแล้วให้เติมบรรทัด
+#   github: jakrapolgod
+# อย่าเติมบรรทัดที่ชี้ไปยังบัญชีที่ยังไม่มีจริง เพราะจะทำให้ปุ่มพัง
+
+custom: ["https://donate-page-jakrapolgods-projects.vercel.app"]
